@@ -1,2 +1,4 @@
 
 Welcome, to GitHub Tutorial!
+
+In the next video we will learn about git add, git commit.
